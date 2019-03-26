@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.yibai.crown.base.configuration.CrownBaseConfiguration
+# Environment Post Processors
+org.springframework.boot.env.EnvironmentPostProcessor=\
+  com.yibai.crown.base.configuration.CrownBaseConfiguration

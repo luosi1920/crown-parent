@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.yibai.crown.rabbitmq.configuration.CrownRabbitConfiguration,\
+  com.yibai.crown.rabbitmq.configuration.ConsistencyRabbitConfiguration,\
+  com.yibai.crown.rabbitmq.configuration.RabbitConditionListenerConfiguration
